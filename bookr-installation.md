@@ -76,7 +76,3 @@ The tests use the actual functions with some hard-coded test values.  These valu
 **Running the Unit Tests**
 
 To run the unit tests, you simply type `mocha` into the command line from the main app directory (`cs361-project-b/textbook-exchange`).  Mocha will run all of your unit tests and let you know which ones passed and which ones failed.  For the tests that failed, it will give the expected results and then also the actual results.
-
-
-# Our Site
-A live working version of our site is hosted at [http://cs361-project-b.bodalj.c9users.io/](http://cs361-project-b.bodalj.c9users.io/)
